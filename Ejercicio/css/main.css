@@ -1,0 +1,44 @@
+body{
+	text-align: justify;
+}
+/* HEADER*/
+.header-derecha{
+	padding-top: 15px;
+}
+.casa{
+	width: 17px;
+	float: left;
+	margin-right: 1px;
+}
+/*MENU*/
+.navbar-static-top{
+	padding-top: 60px;
+	background: #D8D8D8;
+}
+.navbar-static-top ul{
+	padding: 0px;
+}
+.navbar-static-top li{
+	display: inline-block;
+}
+.navbar-static-top a{
+	color: black;
+	text-decoration: none;
+	margin: 15px;
+}
+.navbar-static-top a:hover{
+	background: white;
+	padding: 10px 15px 15px 15px;
+	transition: 0.2s;
+}
+/*CONTENIDO*/
+.etiquetas{
+	display: inline-block;
+	padding-right: 70px;
+	height: 
+}
+hr{
+	height: 2px;
+	background-color: #A6A3A3;
+}
+
