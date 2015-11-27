@@ -35,10 +35,24 @@ body{
 .etiquetas{
 	display: inline-block;
 	padding-right: 70px;
-	height: 
 }
 hr{
 	height: 2px;
 	background-color: #A6A3A3;
+}
+/*FOOTER*/
+.borde{
+	border-top:4px solid black;
+	padding-top:15px;
+}
+.lista{
+	display: inline-block;
+	vertical-align: top;
+	padding-left:0px;
+	margin-right:61px;
+}
+ li{
+	list-style: none;
+	font-weight: bold;
 }
 
